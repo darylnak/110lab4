@@ -1,1 +1,1 @@
-https://travis-ci.org/darylnak/110lab4
+https://travis-ci.org/darylnak/110lab4.svg?branch=master
